@@ -7,7 +7,7 @@ Experienced Research Engineer with a Ph.D. in Computer Science, deeply engaged i
 - 📊 I research bugs in R and Python to improve data science and ML program reliability.
 
 
-
+<!--
 👨‍💻 **Languages and Tools:**
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
@@ -20,7 +20,7 @@ Experienced Research Engineer with a Ph.D. in Computer Science, deeply engaged i
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 
 
-<!--
+
 **hamid58b/hamid58b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
