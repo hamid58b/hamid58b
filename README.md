@@ -2,6 +2,10 @@
 
 Experienced Research Engineer with a Ph.D. in Computer Science, deeply engaged in enhancing data quality and ML model trustworthiness across diverse domains including finance, agriculture, and bioinformatics. Research focus is model explainability from a software engineering perspective, e.g. detecting bugs and suggesting fixes.
 
+- 🔭 I hold a Ph.D. in Computer Science with a minor in Bioinformatics and Computational Biology.
+- 💬 As an Applied Data Scientist, I focus on developing Large Language Models for finance while emphasizing data privacy.
+- 📊 My research explores bugs in R and Python, enhancing understanding and improving reliability in data science and ML programs.
+
 
 👨‍💻 **Languages and Tools:**
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
