@@ -4,7 +4,8 @@ Experienced Research Engineer with a Ph.D. in Computer Science, deeply engaged i
 
 - 🔭 I hold a Ph.D. in Computer Science with a minor in Bioinformatics and Computational Biology.
 - 💬 As an Applied Data Scientist, I focus on developing Large Language Models for finance while emphasizing data privacy.
-- 📊 My research explores bugs in R and Python, enhancing understanding and improving reliability in data science and ML programs.
+- 📊 I research bugs in R and Python to improve data science and ML program reliability.
+
 
 
 👨‍💻 **Languages and Tools:**
